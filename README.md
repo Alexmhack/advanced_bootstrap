@@ -72,3 +72,10 @@ Always use comments to describe a section
 
 .my-5 		gives margin on top and bottom (y) of 1.25rem
 .mt-5 		gives margin top of 1.25rem
+
+In main layout we have different section with different width on the screen.
+
+# Icons
+we can add icons from the class .fa .fa-bicycle from mdb icons in the i tags
+increasing size of icons is as simple as adding another class .fa-1x .fa-2x .fa-3x .fa-4x .fa-5x 
+in i tags.
