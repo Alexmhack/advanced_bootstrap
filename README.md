@@ -64,3 +64,11 @@ For adding content on the intro image we need to keep some contrast between our 
 content on top of it so for that we can add another class
 .rgba-black-strong		adds strong black contrast
 .rgba-black-strong		adds light darkness
+
+# Main Layout
+First of all we will create a basic structure like for the other section
+seperate the section with hr tags and give each section its own start and end comment for ease.
+Always use comments to describe a section
+
+.my-5 		gives margin on top and bottom (y) of 1.25rem
+.mt-5 		gives margin top of 1.25rem
