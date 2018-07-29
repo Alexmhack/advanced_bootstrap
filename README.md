@@ -36,6 +36,7 @@ Images should be small enough to maintain quality and as lightweight as possible
 Image Requirements for a website:
 RESOLUTION: 1920px/1280px
 FORMAT: jpg format
+<<<<<<< HEAD
 COMPRESSED FILE: http://compressjpeg.com/
 
 # Overlay Content
@@ -57,3 +58,10 @@ Centering the content can be done with flexbox
 .row 		for grid construction inside containers
 .col-md-10		content won't be stretched on wide screens and render nicely on small screens too
 .text-center 		center our content within the column
+COMPRESSED FILE: http://compressjpeg.com/
+
+# Content on intro
+For adding content on the intro image we need to keep some contrast between our image and the 
+content on top of it so for that we can add another class
+.rgba-black-strong		adds strong black contrast
+.rgba-black-strong		adds light darkness
