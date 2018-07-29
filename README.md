@@ -27,3 +27,13 @@ height: 100% 		We set the parent elements of the whole html file to full height 
 intro 				we can set our intro id to a proper image url
 background-size: cover 		image covers all the available space on screen
 -webkit -moz -o makes sure our code works properly on every browser
+
+# Image
+The images we upload from our server or any other url source should be small files or else images
+will increase the page load time
+Images should be small enough to maintain quality and as lightweight as possible.
+
+Image Requirements for a website:
+RESOLUTION: 1920px/1280px
+FORMAT: jpg format
+COMPRESSED FILE: http://compressjpeg.com/
