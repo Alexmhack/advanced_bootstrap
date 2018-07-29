@@ -37,3 +37,12 @@ Image Requirements for a website:
 RESOLUTION: 1920px/1280px
 FORMAT: jpg format
 COMPRESSED FILE: http://compressjpeg.com/
+
+# Overlay Content
+.display-4 		creates a huge heading
+.font-weight-bold 		makes heading heavier
+.white-text 	makes heading white
+.hr-light 		makes divider light
+
+.btn-outline-white		creates a transparent button
+.fa-book		one of 700 mdb icons
