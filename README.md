@@ -80,3 +80,7 @@ We can add icons from the class .fa .fa-bicycle from mdb icons in the i tags
 increasing size of icons is as simple as adding another class .fa-1x .fa-2x .fa-3x .fa-4x .fa-5x 
 in i tags.
 We can also add color to our icons using the color-text in the icon(i) tags only, we have added orange color using the class .orange-text
+
+# Heading and Description
+we can add .font-weight-bold class to all the headings 
+.gret-text class can be added to the paragraph tags for each description
