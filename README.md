@@ -46,3 +46,7 @@ COMPRESSED FILE: http://compressjpeg.com/
 
 .btn-outline-white		creates a transparent button
 .fa-book		one of 700 mdb icons
+
+Centering the content can be done with flexbox
+.d-flex 		gives the element flex property
+.align-items-center		center aligns the flex items
