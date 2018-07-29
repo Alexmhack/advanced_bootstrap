@@ -50,3 +50,10 @@ COMPRESSED FILE: http://compressjpeg.com/
 Centering the content can be done with flexbox
 .d-flex 		gives the element flex property
 .align-items-center		center aligns the flex items
+
+# Improve overlay
+.container-fluid	for using row and cols we need to use a container for parent
+.justify-content-center		aligns content horizontally
+.row 		for grid construction inside containers
+.col-md-10		content won't be stretched on wide screens and render nicely on small screens too
+.text-center 		center our content within the column
