@@ -37,3 +37,9 @@ Image Requirements for a website:
 RESOLUTION: 1920px/1280px
 FORMAT: jpg format
 COMPRESSED FILE: http://compressjpeg.com/
+
+# Content on intro
+For adding content on the intro image we need to keep some contrast between our image and the 
+content on top of it so for that we can add another class
+.rgba-black-strong		adds strong black contrast
+.rgba-black-strong		adds light darkness
