@@ -38,6 +38,27 @@ RESOLUTION: 1920px/1280px
 FORMAT: jpg format
 COMPRESSED FILE: http://compressjpeg.com/
 
+# Overlay Content
+.display-4 		creates a huge heading
+.font-weight-bold 		makes heading heavier
+.white-text 	makes heading white
+.hr-light 		makes divider light
+
+.btn-outline-white		creates a transparent button
+.fa-book		one of 700 mdb icons
+
+Centering the content can be done with flexbox
+.d-flex 		gives the element flex property
+.align-items-center		center aligns the flex items
+
+# Improve overlay
+.container-fluid	for using row and cols we need to use a container for parent
+.justify-content-center		aligns content horizontally
+.row 		for grid construction inside containers
+.col-md-10		content won't be stretched on wide screens and render nicely on small screens too
+.text-center 		center our content within the column
+COMPRESSED FILE: http://compressjpeg.com/
+
 # Content on intro
 For adding content on the intro image we need to keep some contrast between our image and the 
 content on top of it so for that we can add another class
