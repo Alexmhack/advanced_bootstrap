@@ -20,3 +20,10 @@ Note: With mask we can make our image darker or lighter
 
 We will add some CSS of our own to handle our intro id element, add CSS in style.css which is 
 empty for our CSS code.
+
+# CSS
+height: 100% 		We set the parent elements of the whole html file to full height because
+					only that way we can cover the entire screent with our image
+intro 				we can set our intro id to a proper image url
+background-size: cover 		image covers all the available space on screen
+-webkit -moz -o makes sure our code works properly on every browser
