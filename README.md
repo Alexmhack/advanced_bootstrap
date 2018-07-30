@@ -130,3 +130,4 @@ For showing the google map paste the script and the location that map will show 
 To get the coordinates of any location, google the location and click on maps then choose the 
 exact location and click on the coordinates that appear in the bottom, copy and paste those 
 coordiantes in the script.
+You also need to change the title of the location for the checkpoint
