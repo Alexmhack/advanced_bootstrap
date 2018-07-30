@@ -1,5 +1,6 @@
 # advanced_bootstrap
 going deeper into the bootstrap and making a professional landing page
+link for website: https://django-project-dc6f8.firebaseapp.com/
 
 # Preparations
 First of all we are going to unzip our kit into the git repo
@@ -96,3 +97,9 @@ all these sections and columns will be device responsive.
 # Image Click Redirection
 To enable the image clicking and redirecting to another url then we can enclose our div .mask
 with anchor tags.
+
+# Carousel
+Go the carousel section of the website and copy the basic example code for carousel
+We have pasted the carousel code in the first column of the gallery section
+If you want to add shadow effect then add z-depth-1-half class in the .carousel-inner div tag.
+The .active class must be added to one of the carousel images or the carousel won't be visible.
