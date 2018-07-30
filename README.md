@@ -139,3 +139,7 @@ we are going to place icons and content aside those icons.
 We can use the basic footer as a starter html.
 We have added our own content in the footer using the grid layout
 We have set four columns with col-lg-4
+We can also add social links in our page using the icons and anchor tags inside another div,
+first we set the color of the div to primary-color, in another div we set the container then
+inside the container we set a single row with two columns, first col will have a text that says
+something and second column has social icons.
