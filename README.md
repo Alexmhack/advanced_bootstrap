@@ -126,3 +126,7 @@ input has an id=form3 and label refers to this id for=form3 which gives us many 
 # Map
 We can set the container for the map and also change its height.
 For our google map to work we need to link google map script using the script tags
+For showing the google map paste the script and the location that map will show is the coordiantes
+To get the coordinates of any location, google the location and click on maps then choose the 
+exact location and click on the coordinates that appear in the bottom, copy and paste those 
+coordiantes in the script.
