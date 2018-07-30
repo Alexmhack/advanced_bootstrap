@@ -137,3 +137,5 @@ we are going to place icons and content aside those icons.
 
 # Footer
 We can use the basic footer as a starter html.
+We have added our own content in the footer using the grid layout
+We have set four columns with col-lg-4
