@@ -92,3 +92,7 @@ The columns in each row has namely three classes col-lg-4 is for diving the col 
 on the large screen. col-md-12 is for making the element cover the whole screen when medium size.
 In the second and third column we have col-md-6 which will place the two cols on the medium screen,
 all these sections and columns will be device responsive.
+
+# Image Click Redirection
+To enable the image clicking and redirecting to another url then we can enclose our div .mask
+with anchor tags.
