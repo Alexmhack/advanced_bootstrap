@@ -132,3 +132,5 @@ exact location and click on the coordinates that appear in the bottom, copy and 
 coordiantes in the script.
 You also need to change the title of the location for the checkpoint.
 You can also change the zoom by changing the value of the zoom variable.
+Above the map-section we have placed another row in which we have another three columns in which
+we are going to place icons and content aside those icons.
