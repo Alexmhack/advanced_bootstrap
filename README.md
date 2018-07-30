@@ -103,3 +103,8 @@ Go the carousel section of the website and copy the basic example code for carou
 We have pasted the carousel code in the first column of the gallery section
 If you want to add shadow effect then add z-depth-1-half class in the .carousel-inner div tag.
 The .active class must be added to one of the carousel images or the carousel won't be visible.
+
+# Carousel-options
+We can play with the many carousel options avaliable on the docs for carousel
+We can even increase the speed of our carousel using some simple jQuery by the interval value,
+to stop the autoplay we can set the interval value to false.
