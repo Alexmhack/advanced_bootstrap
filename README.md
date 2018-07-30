@@ -125,3 +125,4 @@ input has an id=form3 and label refers to this id for=form3 which gives us many 
 
 # Map
 We can set the container for the map and also change its height.
+For our google map to work we need to link google map script using the script tags
