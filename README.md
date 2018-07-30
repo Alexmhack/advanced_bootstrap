@@ -108,3 +108,10 @@ The .active class must be added to one of the carousel images or the carousel wo
 We can play with the many carousel options avaliable on the docs for carousel
 We can even increase the speed of our carousel using some simple jQuery by the interval value,
 to stop the autoplay we can set the interval value to false.
+
+# Contact Form
+Just like the other sections we have to create a basic structure for the section first then
+we will add form tags and the labels and input fields.
+We have made two cols in the contact form section inside a row in which we have set the
+width for the first col to be col-lg-5 which means to complete the 12 we have to set the other
+col width of 7 and we have full width for medium screen as col-md-12.
