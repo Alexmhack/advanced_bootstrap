@@ -143,3 +143,6 @@ We can also add social links in our page using the icons and anchor tags inside 
 first we set the color of the div to primary-color, in another div we set the container then
 inside the container we set a single row with two columns, first col will have a text that says
 something and second column has social icons.
+
+We can make some slight changes for our footer by changing the color of our footer and 
+padding-top to 0.
