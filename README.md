@@ -122,3 +122,6 @@ col width of 7 and we have full width for medium screen as col-md-12.
 .prefix makes the input active when user clicks on it
 
 input has an id=form3 and label refers to this id for=form3 which gives us many smooth animations
+
+# Map
+We can set the container for the map and also change its height.
