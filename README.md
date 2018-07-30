@@ -150,3 +150,5 @@ padding-top to 0.
 # Nav Links
 For the users to show our section on clicking the nav links we can set the href attribute of our
 anchor tags to the #id-name.
+Since our search form is of no use we can put social links in that place using the navbar-nav 
+classes
