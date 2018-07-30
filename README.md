@@ -153,3 +153,4 @@ anchor tags to the #id-name.
 Since our search form is of no use we can put social links in that place using the navbar-nav 
 classes
 To get an scrolling animation in navbar we can add .scrolling-navbar class to .navbar
+We have added scrolling navbar code from codepen and made some changes in classes.
