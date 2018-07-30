@@ -82,5 +82,13 @@ in i tags.
 We can also add color to our icons using the color-text in the icon(i) tags only, we have added orange color using the class .orange-text
 
 # Heading and Description
-we can add .font-weight-bold class to all the headings 
+We can add .font-weight-bold class to all the headings 
 .gret-text class can be added to the paragraph tags for each description
+
+# Sections
+We have three sections in our main layout
+In the first section we have two rows with three columns each within
+The columns in each row has namely three classes col-lg-4 is for diving the col in three parts
+on the large screen. col-md-12 is for making the element cover the whole screen when medium size.
+In the second and third column we have col-md-6 which will place the two cols on the medium screen,
+all these sections and columns will be device responsive.
