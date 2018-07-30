@@ -146,3 +146,7 @@ something and second column has social icons.
 
 We can make some slight changes for our footer by changing the color of our footer and 
 padding-top to 0.
+
+# Nav Links
+For the users to show our section on clicking the nav links we can set the href attribute of our
+anchor tags to the #id-name.
