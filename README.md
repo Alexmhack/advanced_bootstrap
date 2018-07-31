@@ -1,5 +1,6 @@
 # advanced_bootstrap
 going deeper into the bootstrap and making a professional landing page
+
 link for website: https://django-project-dc6f8.firebaseapp.com/
 
 # Preparations
